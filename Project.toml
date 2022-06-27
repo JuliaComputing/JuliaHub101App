@@ -1,0 +1,5 @@
+[deps]
+JuliaHub101 = "71c291ec-7d1f-4c92-a858-02a88be94e8d"
+Stipple = "4acbeb90-81a0-11ea-1966-bdaff8155998"
+StipplePlotly = "ec984513-233d-481d-95b0-a3b58b97af2b"
+StippleUI = "a3c5d34a-b254-4859-a8fa-b86abb7e84a3"
