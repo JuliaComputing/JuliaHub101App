@@ -204,7 +204,7 @@ uuid = "98e50ef6-434e-11e9-1051-2b60c6c9e899"
 version = "0.22.11"
 
 [[deps.JuliaHub101]]
-git-tree-sha1 = "22912f0e71045c478e3b2b7ed0766558bfa3a63a"
+git-tree-sha1 = "77b60a86268f299d1ee97ca16b66bb4f8fd79d22"
 repo-rev = "main"
 repo-url = "https://github.com/JuliaComputing/JuliaHub101.jl"
 uuid = "71c291ec-7d1f-4c92-a858-02a88be94e8d"
@@ -247,6 +247,12 @@ uuid = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 
 [[deps.Logging]]
 uuid = "56ddb016-857b-54e1-b83d-db4d58db5568"
+
+[[deps.LoggingExtras]]
+deps = ["Dates", "Logging"]
+git-tree-sha1 = "5d4d2d9904227b8bd66386c1138cf4d5ffa826bf"
+uuid = "e6f89c97-d47a-5376-807f-9c37f3926c36"
+version = "0.4.9"
 
 [[deps.LoweredCodeUtils]]
 deps = ["JuliaInterpreter"]
